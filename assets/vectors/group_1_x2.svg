@@ -1,0 +1,21 @@
+<svg width="2288" height="2008" viewBox="0 0 2288 2008" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g opacity="0.2">
+<path d="M2007.434,1239.376C1318.128,1490.956 1219.094,226.312 -0.566,706.378L-0.566,846.946C1078.052,422.387 1280.216,1362.434 1789.366,1411.434L1872.576,1411.434C1915.106,1407.458 1959.884,1397.296 2007.434,1379.946L2007.434,1239.376Z" clip-rule="evenodd" fill-rule="evenodd" transform="rotate(-180 1003.434 1004)" fill="url(#pf_0_2_153)"/>
+<path d="M139.009,845.952C1358.669,365.888 1457.703,1630.532 2147.009,1378.952L2147.009,1238.382C1457.703,1489.962 1358.669,225.318 139.009,705.384L139.009,845.952Z" clip-rule="evenodd" fill-rule="evenodd" transform="rotate(-180 1143.009 1004)" fill="url(#pf_0_2_154)"/>
+<path d="M279.578,845.952C1499.238,365.888 1598.272,1630.532 2287.578,1378.952L2287.578,1238.382C1598.272,1489.962 1499.238,225.318 279.578,705.384L279.578,845.952Z" clip-rule="evenodd" fill-rule="evenodd" transform="rotate(-180 1283.578 1004)" fill="url(#pf_0_2_155)"/>
+</g>
+<defs>
+<linearGradient id="pf_0_2_153" x1="1003.434" y1="0" x2="1003.434" y2="2008" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1167B0"/>
+<stop offset="1" stop-color="#1167B0" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="pf_0_2_154" x1="1143.009" y1="0" x2="1143.009" y2="2008" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1167B0" stop-opacity="0"/>
+<stop offset="1" stop-color="#1167B0"/>
+</linearGradient>
+<linearGradient id="pf_0_2_155" x1="1283.578" y1="0" x2="1283.578" y2="2008" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1167B0"/>
+<stop offset="1" stop-color="#1167B0" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
